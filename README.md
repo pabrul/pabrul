@@ -1,5 +1,5 @@
 <h2> Hi, I'm Pablo Batista👋 </br>
-#### I'm a Front-end Developer based in Rio de Janeiro, Brazil.
+ **I'm a Front-end Developer based in Rio de Janeiro, Brazil.**
 </h2>
 
 
@@ -17,7 +17,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; PHP | C | C++ | Python | SQL 
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | Nodejs | Jquery| Bootstrap | Materialize |Linux | VIM | Node.js | ReactJS | VueJS | Angular 7/8/9
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | Nodejs | Jquery | Bootstrap | Materialize | Linux | VIM | Node.js | ReactJS | VueJS | Angular 7/8/9
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
