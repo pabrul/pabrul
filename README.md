@@ -11,7 +11,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
-- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**, **Beyonce**
+- 💬 Ping me about: **wed design**, **social media**, **diversity & inclusion**, **mentorship**
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/pablo-batista-16a7a7180/">LinkedIn</a>
 
 <h3>🛠 Tech Stack</h3>
