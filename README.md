@@ -1,5 +1,5 @@
 <h2> Hi, I'm Pablo Batista👋 </br>
- **I'm a Front-end Developer based in Rio de Janeiro, Brazil.**
+ I'm a Front-end Developer based in Rio de Janeiro, Brazil.
 </h2>
 
 
