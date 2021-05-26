@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
-- 💼 &nbsp; I'm currently working full-time with awesome peeps at **Smart Age Solutions**
+- 💼 &nbsp; I'm currently working full-time with awesome peeps at **TREZO**
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
